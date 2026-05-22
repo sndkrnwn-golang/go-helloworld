@@ -2,7 +2,6 @@ package hello_world
 
 import (
 	"strconv"
-	"fmt"
 )
 
 type UserInformation struct {
